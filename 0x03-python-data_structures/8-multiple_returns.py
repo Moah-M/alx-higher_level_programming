@@ -5,4 +5,4 @@ def multiple_returns(sentence):
     if y == "":
         return "None"
     else:
-        return x,y
+        return x, y

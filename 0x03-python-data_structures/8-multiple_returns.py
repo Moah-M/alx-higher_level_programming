@@ -3,6 +3,6 @@ def multiple_returns(sentence):
     x = len(sentence)
     y = sentence[0]
     if x == 0:
-        return "None"
+        return x, "None"
     else:
         return x, y

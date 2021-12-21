@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-reads stdin
+reads stdin line by line and computes metrics
 """
 
 
